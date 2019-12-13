@@ -31,8 +31,14 @@ pip install BCAWT
 ![](https://raw.githubusercontent.com/AliYoussef96/BCAWT-GUI/master/steps/3.png)
 
 4. Import a fasta file contains genes that will be used as a reference set (or just do not use it if you want BCAWT to generate the reference set automatic, for more information see: [BCAWT](https://bcaw-tools-documentation.readthedocs.io/en/latest/Intro.html)) (from "Open Reference" button). 
-5. Now, just Run it.
+5. Now, just Run it. Wait for the loading bar to finish.
 
 ![](https://raw.githubusercontent.com/AliYoussef96/BCAWT-GUI/master/steps/4.png)
 
 
+# Contribution Guidelines
+Contributions to the software are welcome
+
+For bugs and suggestions, the most effective way is by raising an issue on the github issue tracker. Github allows you to classify your issues so that we know if it is a bug report, feature request or feedback to the authors.
+
+If you wish to contribute some changes to the code then you should submit a pull request How to create a Pull Request? documentation on pull requests
