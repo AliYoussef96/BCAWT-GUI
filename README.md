@@ -12,7 +12,7 @@ BCAW Tool manages a complete automated workflow to analyze the codon usage bias 
 ```python
 pip install BCAWT
 ```
-3. Download this [zip file](https://github.com/AliYoussef96/BCAWT-GUI/tree/master/BCAWT-GUI), after, compress the file and run BCAWT-GUI.py script by any way you would like. 
+3. Download this [zip file](https://github.com/AliYoussef96/BCAWT-GUI/tree/master/BCAWT-GUI). After, compress the file and run BCAWT-GUI.py script by any way you would like. 
 
 # Usage
 
