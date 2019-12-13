@@ -42,3 +42,7 @@ pip install BCAWT
 For bugs and suggestions, the most effective way is by raising an issue on the github issue tracker. 
 Github allows you to classify your issues so that we know if it is a bug report, feature request or feedback to the authors.
 
+
+## Citation
+
+Anwar, (2019). BCAWT: Automated tool for codon usage bias analysis for molecular evolution. Journal of Open Source Software, 4(42), 1500, https://doi.org/10.21105/joss.01500
